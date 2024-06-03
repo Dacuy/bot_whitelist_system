@@ -1,0 +1,20 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "Secso",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Dac_",
+    "license": "ISC",
+    "dependencies": {
+      "@google-cloud/firestore": "^7.6.0",
+      "@types/node": "^18.0.6",
+      "discord.js": "^13.3.1",
+      "firebase": "^10.11.1",
+      "firebase-admin": "^12.1.0"
+    }
+  }
+  
