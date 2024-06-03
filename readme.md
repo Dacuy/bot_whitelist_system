@@ -39,6 +39,12 @@ Bienvenido a **DAC_WhitelistSystem**, una aplicación web para gestionar solicit
 ## Configuración del webSide
 https://github.com/Dacuy/Dac_Whitelist_System---Libre
 
+### Prerequisitos
+
+- Node.js y npm instalados.
+- Una cuenta de Firebase con Firestore habilitado.
+- Un servidor de Discord con permisos para crear y gestionar roles y canales.
+
 
 ## Contacto
 Para cualquier consulta o sugerencia, puedes contactarme en Discord: **dac_lc**.
