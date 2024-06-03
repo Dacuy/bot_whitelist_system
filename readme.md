@@ -23,6 +23,8 @@ Bienvenido a **DAC_WhitelistSystem**, una aplicación web para gestionar solicit
 
 - Comando `/buscarwhitelist <nombreDiscord>` permite buscar la información de una whitelist específica basada en el nombre de usuario de Discord.
 
+<img src="https://cdn.discordapp.com/attachments/1236286793406742599/1247283845955326076/image.png?ex=665f771a&is=665e259a&hm=df35f2304f8b1affdd483c25ece130c5f44fbdbc91976ae891917dbd7b4ea5ac&" alt="Texto Alternativo">
+
 ## Licencia
 Proyecto de uso personal: No hace falta hacer mención al autor.
 Proyecto de uso comercial (Cualquier proyecto que involucre a + de 5 personas que vayan a usar el sistema): Hacer mención al autor y colocar link al repositorio.
