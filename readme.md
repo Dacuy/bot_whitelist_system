@@ -2,6 +2,10 @@
 
 Bienvenido a **DAC_WhitelistSystem**, una aplicación web para gestionar solicitudes de whitelist para servidores, especialmente útil para servidores de FiveM. Los datos ingresados en el formulario se almacenan en una base de datos y luego un bot de Discord procesa las solicitudes para su aprobación o rechazo.
 
+
+<img src="https://cdn.discordapp.com/attachments/1235722562294648836/1247282019080077504/image.png?ex=665f7566&is=665e23e6&hm=480391bd02e7b790b178cb8a28a08cf5e7846c569bbaee64bf97eb5b8047f200&" alt="Texto Alternativo">
+<img src="https://cdn.discordapp.com/attachments/1236012837034266644/1247282239629168741/image.png?ex=665f759b&is=665e241b&hm=50dd357700e08b7f10c4b05472b6c5c4edb6c0360385acf90e8ae6498261d19f&" alt="Texto Alternativo">
+
 ## Funcionalidades
 
 ### Recepción de nuevas solicitudes de whitelist:
